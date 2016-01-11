@@ -620,7 +620,7 @@ int main(void)
     services_init();
     advertising_init();
     conn_params_init();
-    
+    //test change in a file
     simple_uart_putstring(START_STRING);
     
     advertising_start();
