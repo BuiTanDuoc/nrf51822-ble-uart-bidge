@@ -1,0 +1,17 @@
+*/_build/*
+!*/_build/*.hex
+arm/*
+!arm/*.uvprojx
+!arm/*.uvoptx
+gcc/*
+!gcc/*.bat
+!gcc/Makefile
+iar/*
+!iar/*.ewp
+!iar/*.eww
+*.uvgui.*
+*.dep
+*.log
+*.bak
+*.ini
+
