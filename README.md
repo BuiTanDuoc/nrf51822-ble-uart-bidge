@@ -1,6 +1,9 @@
 nRF51-ble-app-uart-static-passkey
 ==================
 
+FOR TEST GITHUB and GIT usage only!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
 This is a modified version of ble-app-uart which uses a static passkey for authentication.
 
 Requirements
